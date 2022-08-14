@@ -12,6 +12,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Pr
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{9D1C08CC-45B0-4743-AD88-FC27172C3560}"
+	ProjectSection(SolutionItems) = preProject
+		docs\IMG_4647.PNG = docs\IMG_4647.PNG
+		docs\IMG_4648.PNG = docs\IMG_4648.PNG
+		docs\IMG_4649.PNG = docs\IMG_4649.PNG
+		docs\IMG_4650.PNG = docs\IMG_4650.PNG
+		docs\IMG_4651.PNG = docs\IMG_4651.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +36,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D1C08CC-45B0-4743-AD88-FC27172C3560} = {F3717630-21E5-4D71-BF88-A4EBA7D770F3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
